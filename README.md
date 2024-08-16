@@ -20,7 +20,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 ## Encuéntrame en:
 
 [![YouTube](https://img.shields.io/badge/YouTube-RayCalvoDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]([https://www.youtube.com/@raymundocalvoperez3116])
-[![Twitter](https://img.shields.io/badge/Twitter-@ray_calvo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ray_calvo)
+[![X](https://img.shields.io/badge/Twitter-@ray_calvo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ray_calvo)
 [![Instagram](https://img.shields.io/badge/Instagram-@raycalvo-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/raycalvo)
 [![TikTok](https://img.shields.io/badge/TikTok-@raycalvoprez-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@raycalvoprez)
 [![Facebook](https://img.shields.io/badge/Facebook-@raycalvo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/raymundo.calvo)

@@ -25,8 +25,8 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 [![TikTok](https://img.shields.io/badge/TikTok-@raycalvoprez-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@raycalvoprez)
 [![Facebook](https://img.shields.io/badge/Facebook-@raycalvo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/raymundo.calvo)
 </br>
-[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/raymundo-calvo-pérez-38690631a/)
+[![Link](https://img.shields.io/badge/Links-raycalvo-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raycalvo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/raymundo-calvo-pérez-38690631a/)
 
 
 # Algunos proyectos de la comunidad

@@ -1,7 +1,7 @@
 # ![https://mouredev.com](https://i.ibb.co/68MrvKF/Profile-52-x-52-px.png) Hola, mi nombre es Raymundo Calvo 👋
 ### Freelance full-stack iOS & Android engineer
 
-![https://github.com/raycalvodev](./raycalvodev_github_profile.png)
+![https://github.com/raycalvodev]([./raycalvodev_github_profile.png](https://i.ibb.co/yyLgLTk/Banner-Ray-Calvo-Dev.png))
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ6gMUxVWErK24xg4mVn81g?style=social)](https://www.youtube.com/@raymundocalvoperez3116?sub_confirmation=1)
 ![GitHub Followers](https://img.shields.io/github/followers/raycalvodev?style=social)

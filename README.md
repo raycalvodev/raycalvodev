@@ -7,11 +7,15 @@
 ![GitHub Followers](https://img.shields.io/github/followers/raycalvodev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/raycalvodev?style=social)
 
-Soy ingeniero de software profesional desde 2001.
+¡Hola! Soy un apasionado ingeniero de software con más de dos décadas de experiencia, trabajando en el mundo del desarrollo desde 2001. He tenido la oportunidad de colaborar con diversas empresas del sector, donde creé software que ha ayudado a optimizar operaciones en cadenas de farmacias y otros proyectos emocionantes.
 
-He trabajado en distintas multinacionales del sector, creando [MoureDev](https://moure.dev) en 2015 para dedicarme a desarrollar aplicaciones móviles a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado más de 150 proyectos (alcanzando el número 1 en 30 países) y he creado mi propia startup.
+En 2010, di un salto al emprendimiento y fundé mi propia startup, enfocándome en el desarrollo móvil. Este proyecto me permitió combinar mi amor por la tecnología con la libertad creativa, lo que ha sido una de las experiencias más enriquecedoras de mi carrera.
 
-Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
+Mi misión siempre ha sido devolver a la comunidad todo el conocimiento que he recibido de forma gratuita a lo largo de los años. Creo firmemente en el poder de compartir y en la importancia de hacer que el conocimiento esté al alcance de todos.
+
+Recientemente, he descubierto una nueva pasión: la ciencia de datos. Me he sumergido en el análisis de datos, y estoy ampliando mis habilidades con herramientas como Python, Power BI y Tableau. Este nuevo enfoque me permite explorar el vasto mundo de los datos y encontrar patrones que pueden transformar la forma en que entendemos la información.
+
+Además de mi trabajo técnico, disfruto ayudando a otros a aprender y crecer en sus propias carreras, ya sea a través de mentorías, talleres, o simplemente compartiendo recursos útiles. ¡Siempre estoy buscando nuevas maneras de contribuir y aprender algo nuevo cada día!
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
 > 

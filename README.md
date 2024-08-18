@@ -34,18 +34,11 @@ Además de mi trabajo técnico, disfruto ayudando a otros a aprender y crecer en
 
 
 # Algunos proyectos de la comunidad
-<script src="https://gist.github.com/raycalvodev/2109f03d044f01069096b6f76ea30023.js"></script>
-## Python desde cero: Curso gratis
-
-<a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
-
+[¡Visita Gits!](https://gist.github.com/raycalvodev/2109f03d044f01069096b6f76ea30023)
+![GitHub Gist stars](https://img.shields.io/github/gist/stars/:2109f03d044f01069096b6f76ea30023)
 
 ## Algunos vídeos en YouTube:
-## Contacto y apoyo:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-</br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+## Contacto y apoyo:
+[![Email](https://img.shields.io/badge/raycalvodev@outlook.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:raycalvodev@outlook.com)
 </br>

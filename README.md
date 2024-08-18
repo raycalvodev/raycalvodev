@@ -35,7 +35,7 @@ Además de mi trabajo técnico, disfruto ayudando a otros a aprender y crecer en
 
 # Algunos Gist de ayuda para la comunidad
 [¡Todos los seriales/All Product keys!](https://gist.github.com/raycalvodev/2109f03d044f01069096b6f76ea30023)
-![GitHub Gist stars](https://img.shields.io/github/gist/stars/:raycalvodev/2109f03d044f01069096b6f76ea30023)
+![GitHub Gist stars](https://img.shields.io/github/gist/stars/2109f03d044f01069096b6f76ea30023)
 
 ## Algunos vídeos en YouTube:
 

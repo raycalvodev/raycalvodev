@@ -34,7 +34,7 @@ Además de mi trabajo técnico, disfruto ayudando a otros a aprender y crecer en
 
 
 # Algunos proyectos de la comunidad
-
+<script src="https://gist.github.com/raycalvodev/2109f03d044f01069096b6f76ea30023.js"></script>
 ## Python desde cero: Curso gratis
 
 <a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
@@ -43,61 +43,6 @@ Además de mi trabajo técnico, disfruto ayudando a otros a aprender y crecer en
 
 
 ## Algunos vídeos en YouTube:
-
-<table style="width:100%">
-<tr>
-<td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/3UCZltG8iCY">
-<img src="http://i3.ytimg.com/vi/3UCZltG8iCY/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/G0ga_YVQOaw">
-<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/NJacVZx2fv8">
-<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/_y9qQZXE24A">
-<img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/mIVbUb7shE8">
-<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/zFbTXe1yFGA">
-<img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-</table>
-
 ## Contacto y apoyo:
 
 [![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
